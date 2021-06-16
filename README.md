@@ -2,14 +2,14 @@
 ## Contents
 1. [About me](#about-me)
 2. [My projects](#my-projects)
-  1. [Medical](#medical)
-    1. [Goals of this project]()
+  1. [Medical](#employees-medical-examination)
+    1. [Goals of this project](#what-is-thisproject-made-for?)
     2. [Code preview]()
     3. [How to use]()
   2. [Learning of `AJAX` and `PHP`]()
-3. [People I've created with]()
-4. [My other skills]()
-5. [Concacts]()
+3. [People I've created with](#people-i've-worked-with)
+4. [My other skills](#my-skills)
+5. [Concacts](#how-can-you-get-in-touch-with-me?)
 <a href="about-me"></a>
 ## About me
 My name is Ilia, I'm from Moscow. I like learning programming especially `front-end` and `back-end` languages such as `JavaScript`, `PHP`. 
@@ -26,7 +26,8 @@ Most recently, I worked on the development of sending employees to a medical exa
 ####
 ## People I've created with
 [Miklaih - Ho1j](https://github.com/Ho1j)
-## My skills besides programming knowledge
+## My skills
+ My skills besides programming knowledge
 - I fluently speak `Spanish`, `English` and `Czech`. 
 - I have basic knowledge of `German`
 - I enjoy communicating with people and making new acquaintances
