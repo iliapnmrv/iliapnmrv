@@ -2,30 +2,26 @@
 ## Contents
 1. [About me](#about-me)
 2. [My projects](#my-projects)
-  1. [Medical](#employees-medical-examination)
-    1. [Goals of this project](#what-is-thisproject-made-for?)
-    2. [Code preview]()
-    3. [How to use]()
-  2. [Learning of `AJAX` and `PHP`]()
-3. [People I've created with](#people-i've-worked-with)
-4. [My other skills](#my-skills)
-5. [Concacts](#how-can-you-get-in-touch-with-me?)
+  1. [Medical](https://github.com/iliapnmrv/med)
+  2. [React native | QRcode scanner](https://github.com/iliapnmrv/QR_expo)
+3. [My other skills](#my-skills)
+4. [Concacts](#how-can-you-get-in-touch-with-me?)
 <a href="about-me"></a>
 ## About me
 My name is Ilia, I'm from Moscow. I like learning programming especially `front-end` and `back-end` languages such as `JavaScript`, `PHP`. 
 <br> In my repository you can learn more about me and projects I've worked recently on
 <a href="my-projects"></a>
 ## My projects
-<a href="medical"></a>
 ### Employees medical examination
-Most recently, I worked on the development of sending employees to a medical examination
-#### What is this project made for?
+I worked on the development of sending employees to a medical examination
 - You can send employees to the checkup, see their last visit
 - Sort by: `Last-visits`, `Occupation` and many more.
 - Filter by date and prepare inspection for the future
-####
-## People I've created with
-[Miklaih - Ho1j](https://github.com/Ho1j)
+You can read complete documentation and clone this repository [here] (https://github.com/iliapnmrv/med)
+### QRcode scanner - an android application
+Most recently, I've been developing a an application made with `React Native` and `SQLite` database
+My program is able to:
+- Display scanned information and add it to database
 ## My skills
  My skills besides programming knowledge
 - I fluently speak `Spanish`, `English` and `Czech`. 
