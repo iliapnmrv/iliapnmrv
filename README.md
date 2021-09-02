@@ -17,7 +17,7 @@ I worked on the development of sending employees to a medical examination
 - You can send employees to the checkup, see their last visit
 - Sort by: `Last-visits`, `Occupation` and many more.
 - Filter by date and prepare inspection for the future
-You can read complete documentation and clone this repository [here] (https://github.com/iliapnmrv/med)
+You can read complete documentation and clone this repository [here](https://github.com/iliapnmrv/med)
 ### QRcode scanner - an android application
 Most recently, I've been developing a an application made with `React Native` and `SQLite` database
 My program is able to:
