@@ -14,18 +14,22 @@ My name is Ilia, I'm from Moscow. I'am a `front-end` developer with both over a 
 <a href="my-projects"></a>
 ## My projects
 ### Employees medical examination
-`PHP`, `AJAX` and `JavaScript` stack <br>
+stack: `PHP`, `AJAX` and `JavaScript` <br>
 I worked on the development of sending employees to a medical examination
 - You can send employees to the checkup, see their last visit
 - Sort by: `Last-visits`, `Occupation` and many more.
 - Filter by date and prepare inspection for the future
 You can read complete documentation and clone this repository [here](https://github.com/iliapnmrv/med)
-### Invetory
-`SASS`, `JavaScript` with `React` as a client side and `Node.JS` as a server side, `MySql` as database stack <br>
+### Inventory
+stack: `React Native` + `Redux`, `SASS`, `JavaScript` with `React` as a client side and `Node.JS` as a server side, `MySql` as database <br>
 A fullstack CRUD mobile and web application to control inventory throughout an entire company, developed from scratch.
-Most recently, I've been developing a an application made with `React Native` and `SQLite` database
-My program is able to:
-- Display scanned information and add it to database
+#### What is inventory?
+An inventory is carried out in order to check the remains of what inventory, property and stocks the company has. 
+My application helps users to check every item and get control of:
+- owner
+- status
+- information for other users to see it.
+<br>Don't forget to learn more [here](https://github.com/iliapnmrv/inventory)
 ## My skills
  My skills besides programming knowledge
 - I fluently speak `Spanish`, `English` and `Czech`. 
