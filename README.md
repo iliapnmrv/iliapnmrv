@@ -3,7 +3,7 @@
 1. [About me](#about-me)
 2. [My projects](#my-projects)
      1. [Medical](https://github.com/iliapnmrv/med)
-     2. [Inventory](https://github.com/iliapnmrv/QR_expo)
+     2. [Inventory](https://github.com/iliapnmrv/inventory)
 3. [My other skills](#my-skills)
 4. [Contacts](#how-can-you-get-in-touch-with-me)
 <a href="about-me"></a>
